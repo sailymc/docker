@@ -1,1 +1,2 @@
-# docker
+# Docker
+Practica utilizando Docker.
